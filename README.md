@@ -78,7 +78,7 @@
 ![promo-pairs-margin-ranking](screenshots/promo-pairs-margin-ranking.jpg)  
 горизонтальный bar‑chart для топ‑10 пар (ось X — количество транзакций, ось Y — товар 1, цвет — товар 2);  
 
-![promo-pairs-margin-ranking](screenshots/basket_size.jpg)  
+![promo-pairs-margin-ranking](screenshots/basket_size.png)  
 гистограмма распределения размера корзины (3–10 позиций как основной диапазон).  ​
 
 ### Запуск ноутбука:  
