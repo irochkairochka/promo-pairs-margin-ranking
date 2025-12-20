@@ -75,7 +75,7 @@
 
 В ноутбуке построены:  
 
-![promo-pairs-margin-ranking](.screenshots/promo-pairs-margin-ranking.jpg)  
+![promo-pairs-margin-ranking](screenshots/promo-pairs-margin-ranking.jpg)  
 пара `Cereal + Milk` доминирует — встречается в ~2 800 транзакциях, что в ~2.5 раза чаще, чем остальные топ-пары (~1 100 транзакций каждая);  
 
 ![promo-pairs-margin-ranking](screenshots/basket_size.png)  
